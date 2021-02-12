@@ -12,7 +12,7 @@
 
 ## Specification
 
-* Unity 4.16f
+* This source can be run on Unity 4.16f
 
 ## How to connect to your own server
 
